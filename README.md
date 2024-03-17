@@ -9,6 +9,10 @@ This repository contains a Python program that recommends TV shows based on user
 - Allows users to input their favorite TV shows and generates recommendations.
 - Provides unit tests for core functionalities.
 
+## Data Source
+
+The TV show data used in this project is sourced from Kaggle.
+
 ## Usage
 
 1. Clone the repository
