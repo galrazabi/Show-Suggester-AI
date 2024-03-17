@@ -28,13 +28,7 @@ Follow the prompts to get recommendations!
 To run tests:
 python test_show_suggester.py
 
-## Contributing
 
-Contributions welcome! Please open an issue or pull request if you have suggestions or find issues.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 
